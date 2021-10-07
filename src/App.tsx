@@ -8,7 +8,7 @@ function App() {
         <img src="https://recruit.fusic.co.jp/assets/img/common/logo.svg" className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://fusic.co.jp/img/logo01.png"
+          href="https://github.com/seike460/aws-amplify-sample"
           target="_blank"
         >
             https://github.com/seike460/aws-amplify-sample
