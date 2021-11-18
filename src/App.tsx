@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 
 function App() {
@@ -9,6 +8,7 @@ function App() {
         <a
           className="App-link"
           href="https://github.com/seike460/aws-amplify-sample"
+          rel="noreferrer"
           target="_blank"
         >
             https://github.com/seike460/aws-amplify-sample
@@ -16,6 +16,7 @@ function App() {
         <a
           className="App-link"
           href="https://recruit.fusic.co.jp/"
+          rel="noreferrer"
           target="_blank"
         >
             <p>株式会社Fusic採用ページ</p>
